@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Trivia</string>
+    <string name="addTitle">Add a Term</string>
+    <string name="term">term</string>
+    <string name="definition">definition</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="off">off</string>
+    <string name="on">On</string>
+    <string name="playMusic">Play Music</string>
+    <string name="title">Android Trivia Quiz</string>
+    <string name="play">Play</string>
+    <string name="addWord">Add Word</string>
+    <string name="scoreHistory">Score History</string>
+    <string name="highScore">High Score:</string>
+</resources>

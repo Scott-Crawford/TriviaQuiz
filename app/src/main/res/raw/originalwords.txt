@@ -1,0 +1,10 @@
+Layout Resource
+An XML file that describes the layout of an Activity screen.
+Widget
+One of a set of fully implemented View subclasses that render form elements and other UI components, such as a text box or popup menu.
+View
+An object that draws to a rectangular area on the screen and handles click, keystroke, and other interaction events.
+Intent
+An message object that you can use to launch or communicate with other applications/activities asynchronously.
+Drawable
+A compiled visual resource that can be used as a background, title, or other part of the screen.
